@@ -1,5 +1,9 @@
 # Change Log
 
+## Next (July, 2018)
+
+- Enhancement: Chnaged build script in publish stage. ([@JimiC](https://github.com/JimiC) in [#1636](https://github.com/vscode-icons/vscode-icons/pull/1636))
+
 ## 7.24.0 (June 20, 2018)
 
 - Enhancement: Associated `plist` with `config` icon. ([@JimiC](https://github.com/JimiC) in [#1630](https://github.com/vscode-icons/vscode-icons/pull/1630))
