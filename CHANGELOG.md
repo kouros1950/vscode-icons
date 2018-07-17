@@ -2,7 +2,8 @@
 
 ## Next (July, 2018)
 
-- Enhancement: Chnaged build script in publish stage. ([@JimiC](https://github.com/JimiC) in [#1636](https://github.com/vscode-icons/vscode-icons/pull/1636))
+- Feature: Added support for portable mode. ([@JimiC](https://github.com/JimiC) in [#1636](https://github.com/vscode-icons/vscode-icons/pull/1651))
+- Enhancement: Changed build script in publish stage. ([@JimiC](https://github.com/JimiC) in [#1636](https://github.com/vscode-icons/vscode-icons/pull/1636))
 
 ## 7.24.0 (June 20, 2018)
 
